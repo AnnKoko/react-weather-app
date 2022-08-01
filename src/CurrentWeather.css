@@ -1,0 +1,40 @@
+.container .row {
+  width: 90%;
+  margin: auto;
+  font-weight: 900;
+}
+
+.row .city-name {
+  text-align: left;
+  line-height: 45px;
+  font-size: 25px;
+}
+.row .curr-date {
+  text-align: right;
+  line-height: 45px;
+  font-size: 15px;
+}
+
+.row .curr-weather-icon {
+  margin: auto;
+}
+
+.row .curr-weather-info h3 {
+  text-align: left;
+  font-weight: 800;
+  font-size: 30px;
+  padding: 0px 20px;
+}
+
+.row .curr-weather-info p {
+  text-align: left;
+  padding: 0px 20px;
+}
+.curr-weather-info a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.curr-weather-info a:hover {
+  text-shadow: 2px 2px 8px rgb(255, 255, 255);
+}

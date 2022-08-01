@@ -1,0 +1,33 @@
+.search-field-cont {
+  display: inline-flex;
+  justify-content: space-between;
+  background: transparent;
+  margin: 20px auto;
+  padding: 7px 7px;
+  width: 90%;
+}
+
+.search-field-cont i {
+  color: #fff;
+  font-size: 20px;
+  margin: 4px auto;
+}
+
+.search-field {
+  background: transparent;
+  border: none;
+  color: #fff;
+  width: 90%;
+  font-size: 20px;
+}
+
+.search-field:focus {
+  outline: none;
+}
+
+.search-btn {
+  height: 30px;
+  width: 30px;
+  background-color: transparent;
+  border: none;
+}
