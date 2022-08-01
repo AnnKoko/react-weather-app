@@ -49,8 +49,8 @@ export default function App() {
           temp_min="15"
           temp_max="21"
         />
+        <Footer/>
       </div>
-      <Footer/>
     </div>
   );
 }
